@@ -1,0 +1,9 @@
+site_name: IntegrityPolygon
+site_url: https://your-username.github.io/IntegrityPolygon/
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: cyan
+nav:
+  - Home: index.md
